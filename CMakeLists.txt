@@ -1,1 +1,1 @@
-add_executable(test chernovik_3_laby.cpp)
+add_executable(chernovik_3_laby chernovik_3_laby.cpp)
